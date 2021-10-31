@@ -23,6 +23,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
       <li><h1><i>Projects</h1></i>
         <b> <i> Alpha Quiz using VB.NET</i></b><br>
+        <img align=left; alt="Image" " src="https://user-images.githubusercontent.com/93462095/139593715-75776cf5-6a40-42b6-8139-71ccb0314e00.jpeg"/
         <b> <i> Tourist website using HTML & CSS</i></b><br>
 <br><br>
 <!---
