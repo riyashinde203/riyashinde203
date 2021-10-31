@@ -4,7 +4,7 @@
 - 🎨 I love to sketch in my free time.
 - 📫 How to reach me riyashinde173@gmail.com
   + <h1><i>Education</h1></i>
-  <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rosary School Camp, Pune</i></b><br>
+  <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rosary School Camp, Pune</i></b><br>
    - Completed SSC <br>
   <b> <i>MIT Polytechnic, Pune</i></b><br>
    - Persuing Diploma in Computer Engineering <br>
