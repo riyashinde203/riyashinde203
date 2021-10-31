@@ -32,8 +32,8 @@
         <h2>-<b> <i> Tourist website using HTML & CSS</h2></i></b><br>
        <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139594539-c1ff86e5-b653-4ac3-8667-9ff6bbc20653.png" />
 
-<img align=left; alt="Image"width="500px"  "src="https://user-images.githubusercontent.com/93462095/139594571-751c6c8a-0bd7-4ad7-86a9-fb146fd1d90e.png" />
-<br><br>
+     
+
 <!---
 riyashinde203/riyashinde203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
