@@ -24,8 +24,6 @@
       <h2>- <b> <i> Alpha Quiz using VB.NET<h2></i></b>
         <b> <i> Signup Form</b></i><br>
         <img align=left; alt="Image" width="500px" " src="https://user-images.githubusercontent.com/93462095/139593715-75776cf5-6a40-42b6-8139-71ccb0314e00.jpeg" /><br>
-        <b> <i> Signin Form</b></i><br>                                                                                                               
-        <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139593730-08ab2a52-1055-439c-b933-2a6f3b272fa9.jpeg" /><br>
         <b> <i> Quiz Form</b></i><br>  
 <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139593743-97050747-b571-4e3d-8d0d-3c57c54eb7c1.jpeg" /><br>  
                                                                                                                                            <br>
