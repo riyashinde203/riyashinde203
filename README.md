@@ -12,7 +12,7 @@
   + <h1><i>Contact with me</h1></i>
   <a href="https://www.linkedin.com/in/riya-shinde-9b5bb01bb" target="blank">
   <img align="left" alt="Linkedin Profile | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<a href="https:https://www.instagram.com/riyaa._.01/" target="blank">
+<a href="https://www.instagram.com/riyaa._.01/" target="blank">
 <img align="left" alt="riyaa._.01| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> <br>
       <h1><i>Languages and tools</h1></i>
 <img align="left" alt="C-language" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
