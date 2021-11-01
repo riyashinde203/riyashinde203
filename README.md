@@ -31,7 +31,7 @@
           <li> <b> Quiz Form</b></li><br>  
 <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139593743-97050747-b571-4e3d-8d0d-3c57c54eb7c1.jpeg" /><br>  
                                                                                                                                            <br>
-        <h3>-<b> <i> Tourist website using HTML & CSS</h3></i></b><br>
+        <h3>-<b> <i> Tourist website using HTML CSS & BootStrap</h3></i></b><br>
        <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139594539-c1ff86e5-b653-4ac3-8667-9ff6bbc20653.png" />
 <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139594888-3a3b79d4-06d9-451b-9820-3c299e0170ee.png" />
 
