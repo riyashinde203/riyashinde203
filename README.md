@@ -20,14 +20,18 @@
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img align="left" alt="VB.NET" width="26px" src="https://user-images.githubusercontent.com/93462095/139620936-1debe031-9f4e-447e-8bed-c86daec8a276.jpeg" />
+<img align="left" alt="CSS" width="18px" src="https://user-images.githubusercontent.com/93462095/139620952-7d381176-f727-415f-95fa-07498f9f3a5d.png" />
+<img align="left" alt="HTML" width="26px" src="https://user-images.githubusercontent.com/93462095/139620958-d461e6e4-14f6-4167-9d71-ff3b8fa25098.png" />
       <li><h1><i>Projects</h1></i>
       <h2>- <b> <i> Alpha Quiz using VB.NET<h2></i></b>
-        <b> <i> Signup Form</b></i><br>
+        <ul>
+          <li> <b> Signup Form</b></li><br>
         <img align=left; alt="Image" width="500px" " src="https://user-images.githubusercontent.com/93462095/139593715-75776cf5-6a40-42b6-8139-71ccb0314e00.jpeg" /><br>
-        <b> <i> Quiz Form</b></i><br>  
+          <li> <b> Quiz Form</b></li><br>  
 <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139593743-97050747-b571-4e3d-8d0d-3c57c54eb7c1.jpeg" /><br>  
                                                                                                                                            <br>
-        <h2>-<b> <i> Tourist website using HTML & CSS</h2></i></b><br>
+        <h3>-<b> <i> Tourist website using HTML & CSS</h3></i></b><br>
        <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139594539-c1ff86e5-b653-4ac3-8667-9ff6bbc20653.png" />
 <img align=left; alt="Image"width="500px" " src="https://user-images.githubusercontent.com/93462095/139594888-3a3b79d4-06d9-451b-9820-3c299e0170ee.png" />
 
