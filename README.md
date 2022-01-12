@@ -1,7 +1,7 @@
 + <h1> <i>👋 Hi, I’m Riya Shinde</i>
 - 👀 I’m interested in working on live projects and to learn new programming languages
 - 🌱 I’m currently learning javascript, advance java
-- 🎨 I love to sketch in my free time.
+- 🎨 I love to read books in my free time.
 - 📫 How to reach me riyashinde173@gmail.com
   + <h1><i>Education</h1></i>
   <b> <i>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rosary School Camp, Pune</i></b><br>
